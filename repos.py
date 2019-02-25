@@ -16,6 +16,8 @@ names = ["baesy0",
 		"qdimomibp",
 		"sinewpark",
 		"sohi9732",
+		"dlcnd",
+		"ChaeyunBae",
 		"YujinHa"]
 
 for name in names:
